@@ -5,3 +5,4 @@ Exercise: Add your name to this list by issuing a pull request
 
 Bram Luyten
 Ignace Deroost
+Jochen Parmentier
